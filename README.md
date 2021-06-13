@@ -1,7 +1,8 @@
 Hi 
 Simran here ,
-I'm a Developer 👨‍💻
-GIF
+I'm a web Developer
+![image](https://user-images.githubusercontent.com/83011978/121801727-6a715c80-cc56-11eb-88ee-2b35fc868658.png)
+
 
 
 
