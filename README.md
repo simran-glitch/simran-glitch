@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @simran-glitch
 - 👀 I’m interested in web development,
       have a good hand on c,c++,java python java script
-- 🌱 I’m currently learning ...react
+- 🌱 I’m currently learning ...django
+- tool-neatbeans,eclipse,vscode,pycharm,spyder
 - 💞️ I’m looking to collaborate on ...web development projects
 - 📫 reach me on simran7799123@gmail.com
 
