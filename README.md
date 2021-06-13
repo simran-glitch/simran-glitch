@@ -10,6 +10,14 @@ LANGUAGES : ![image](https://user-images.githubusercontent.com/83011978/12180185
 
 
 
+•	🌱 I’m currently learning ...django
+•	tool-neatbeans,eclipse,vscode,pycharm,spyder,oracle
+•	💞️ I’m looking to collaborate on ...web development projects
+•	📫 reach me on simran7799123@gmail.com
+
+
+
+
 
 
 
